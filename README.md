@@ -7,3 +7,5 @@ Some people also know me as a content creator on YouTube (https://www.youtube.co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Te1amon&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Te1amon&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?Te1amon=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
