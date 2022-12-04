@@ -1,6 +1,5 @@
 ### Hello! I'm Te1amon.
-I code primarily in the coding language Lua, but I know some C# aswell.
-Plan to learn C++ lol
+I code primarily in the coding language Lua, but I know some C# aswell. Know a bit of C++ now.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Te1amon&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
