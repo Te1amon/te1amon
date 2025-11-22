@@ -1,8 +1,9 @@
-### Hello! I'm Te1amon.
-I code primarily in the coding language Lua, but I know some C# aswell. Know a bit of C++ now.
+# Hello
+Hi, I'm Te1amon. I used to make really garbage Roblox scripts on this GitHub when I was ~11 years old, so don't be surprised when you find something that is completely unreadable and/or was made for something stupid.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Te1amon&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
+## Contact Me
+I don't know why anyone would, but if you want to contact me for whatever reason:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Te1amon&theme=tokyonight)
+- My Discord is @te1amon
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Te1amon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- My (new) GitHub is @blueshed2533
